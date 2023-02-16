@@ -13,4 +13,3 @@ make sounds
 -   car 🚗 
 -   or corn 🌽 
 -   books 📚 
--   
